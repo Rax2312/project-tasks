@@ -16,6 +16,9 @@ ENV PATH="/root/.local/bin:$PATH"
 # Set up the application directory
 WORKDIR /app
 
+# Copy the entire project directory
+COPY . /app
+
 # Copy application files
 COPY app.py /app
 
