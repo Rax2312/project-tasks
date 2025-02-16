@@ -12,7 +12,10 @@
 #   "python-dotenv",
 #   "httpx",
 #   "markdown",
-#   "duckdb"
+#   "duckdb",
+#   "beautifulsoup4",
+#   "pillow",
+#    "faster-whisper",
 # ]
 # ///
 
